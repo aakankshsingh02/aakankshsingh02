@@ -57,3 +57,6 @@
 <a href="https://github.com/aakankshsingh02/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakankshsingh02&layout=compact&theme=radical">    
 </a> 
+
+<br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakankshsingh02&theme=dark" alt="aakankshsingh02" /></p>
