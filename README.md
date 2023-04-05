@@ -46,17 +46,6 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
   </div>
-  
- <br><br>
-
-<a href="https://github.com/aakankshsingh02/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aakankshsingh02&theme=radical&show_icons=true&count_private=true">    </a>
-  
- <br><br>
  
-<a href="https://github.com/aakankshsingh02/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakankshsingh02&layout=compact&theme=radical">    
-</a> 
-
 <br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakankshsingh02&theme=dark" alt="aakankshsingh02" /></p>
